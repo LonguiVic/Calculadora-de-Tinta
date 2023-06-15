@@ -8,7 +8,7 @@ Esta é uma calculadora simples para determinar a quantidade de latas de tinta n
 
 -Largura da parede: a largura da parede que será pintada.
 
-Como usar:
+# Como usar:
 
 -Clone ou faça o download deste repositório.
 
@@ -20,7 +20,7 @@ Como usar:
 
 -O resultado será exibido no formato "Você precisa de {total} latas de tinta".
 
-Exemplo:
+# Exemplo:
 
 Qual é o rendimento da lata? 15
 
@@ -30,7 +30,7 @@ Qual a largura da parede? 5
 
 Você precisa de 1.0 latas de tinta
 
-Notas:
+# Notas:
 
 -Certifique-se de ter o Python instalado em seu sistema.
 
